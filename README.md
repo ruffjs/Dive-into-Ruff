@@ -40,3 +40,15 @@
 
 [ ‘应用编程模型’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-application-programming-model.md)
 
+## Lesson 1.3:  应用测试
+
+应用开发中还有一个很重要的步骤，就是测试。我们在这里介绍 Ruff 的应用测试方法。
+
+[ ‘应用测试’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-application-test.md)
+
+## Lesson 1.4: 交互通道
+
+我们在这里补充介绍了 Ruff 开发板的交互方式。
+
+[ ‘交互通道’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-interaction-channel.md)
+
