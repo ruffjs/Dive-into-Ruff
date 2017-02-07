@@ -20,10 +20,13 @@
 
 这部份的内容可以跳转到 [Ruff官网 SDK安装](https://ruff.io/zh-cn/docs/sdk-installation.html)。之前已经配置过Ruff SDK的开发者可以跳过该部分。
 
-## Lesson 1.0 : 应用开发起步走
+## Lesson 1.0: 应用开发起步走
 
 这部份内容以“点亮板载灯”为例，让初次接触Ruff的开发者对于Ruff上的应用开发有一个完整的体验。
 
 后面的课程对于起步走中的各个步骤会有更详细的讲解。
 
 [ ‘应用开发起步走’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-application-development-get-started.md)
+
+## Lesson 1.1: 应用开发步骤
+

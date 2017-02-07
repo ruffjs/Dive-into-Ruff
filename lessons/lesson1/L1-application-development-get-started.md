@@ -11,13 +11,13 @@
 
 # 前提条件
 
-* 如果你还没有 Ruff 的开发套件，可以到[这里](kit.html)购买。
+* 如果你还没有 Ruff 的开发套件，可以到[这里](https://shop154924108.taobao.com/)购买。
 * 请确保自己的电脑具备无线网络访问能力。
-* 在实践过程中，遇到任何问题，可以访问[疑难解决](trouble-shooting.html)。
+* 在实践过程中，遇到任何问题，可以访问[疑难解决](https://ruff.io/zh-cn/docs/trouble-shooting.html)。
 
 # 第一步：下载安装 Ruff SDK
 
-1. 根据你的操作系统，下载并安装 [Ruff SDK][download-page]。
+1. 根据你的操作系统，下载并安装 [Ruff SDK](https://ruff.io/zh-cn/docs/download.html)。
 2. 在安装完成后，在命令行中执行 `rap --version`，如果正确输出当前的 SDK 版本，则说明 Ruff SDK 安装成功。
 
 > Ruff 的开发工具 `rap` 为 Ruff 应用开发提供了多方面的支持，包括项目脚手架，依赖与设备管理等。
