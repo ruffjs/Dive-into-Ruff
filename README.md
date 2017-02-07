@@ -26,4 +26,4 @@
 
 后面的课程对于起步走中的各个步骤会有更详细的讲解。
 
-[ ‘应用开发起步走’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/)
+[ ‘应用开发起步走’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-application-development-get-started.md)
