@@ -30,3 +30,13 @@
 
 ## Lesson 1.1: 应用开发步骤
 
+在这里我们介绍 Ruff 应用开发的基本步骤，并解释各个步骤的命令和目的。
+
+[ ‘应用开发步骤’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-application-development-steps.md)
+
+## Lesson 1.2: 应用编程模型
+
+在上一节课的基础上，我们进一步说明 Ruff 开发中的基本概念，以及应用开发的编程模型。
+
+[ ‘应用编程模型’](https://github.com/ruffjs/Dive-into-Ruff/blob/master/lessons/lesson1/L1-application-programming-model.md)
+
